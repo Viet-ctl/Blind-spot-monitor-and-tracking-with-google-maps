@@ -1,9 +1,9 @@
 /* ==========================================
  * THÔNG TIN BLYNK & CHRONOS
  * ========================================== */
-#define BLYNK_TEMPLATE_ID "TMPL6NwKUVp4l"
-#define BLYNK_TEMPLATE_NAME "blind spot tracking and time"
-#define BLYNK_AUTH_TOKEN "5XTmzqi_sp7L1KN71qob_FoXI64XiPco"
+#define BLYNK_TEMPLATE_ID " "
+#define BLYNK_TEMPLATE_NAME " "
+#define BLYNK_AUTH_TOKEN " "
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
@@ -17,8 +17,8 @@
 #include <ChronosESP32.h> 
 
 // --- THÔNG TIN WI-FI ---
-char ssid[] = "...";
-char pass[] = "22122222";
+char ssid[] = " ";
+char pass[] = " ";
 
 // --- CẤU HÌNH PHẦN CỨNG ---
 #define SCREEN_WIDTH 128 
